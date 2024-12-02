@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37fc5a16-5973-49a7-9c6c-5377a1e5fecd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/MedicationsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/MedicationsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/PatientsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/PatientsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Doctors.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Doctors.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Medications.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Medications.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_11_115143_create_medication_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/public/images/hospital-building-001-global.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/public/images/modern-hospital-building-picture-id1312706413.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/patientsList.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/patientsList.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-project/sisal-project/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-project/sisal-project/routes/web.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+              <folding>
+                <element signature="e#7#51#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_080010_create_medications_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Medications.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/medications/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1155">
+              <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/PatientsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/MedicationsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="e#40#67#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/medications/medicationslist.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/patientsList.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="130" selection-start-line="130" selection-end-line="130" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laravel-project/sisal-project" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/.env" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/home.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/layout.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/PatientsController.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/edit.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/create.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/patientsList.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Doctors.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/index.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_11_115143_create_medication_table.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_072408_create_medications_table.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_074236_create_medications_table.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_074333_create_medications_table.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_074948_create_medications_table.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Medications.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_080010_create_medications_table.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/MedicationsController.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/routes/web.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/medications/create.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-project/sisal-project/resources/views/medications/medicationslist.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="993" />
+    <option name="y" value="69" />
+    <option name="width" value="927" />
+    <option name="height" value="885" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="https:" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="https:" type="462c0819:PsiDirectoryNode" />
+              <item name="pta-git2.csir.co.za" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="medications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="patients" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="sisal-project" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37fc5a16-5973-49a7-9c6c-5377a1e5fecd" name="Default Changelist" comment="" />
+      <created>1729155854290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729155854290</updated>
+      <workItem from="1729155855375" duration="4421000" />
+      <workItem from="1729166694142" duration="9579000" />
+      <workItem from="1729418326456" duration="2016000" />
+      <workItem from="1729421387040" duration="2166000" />
+      <workItem from="1729501567532" duration="9075000" />
+      <workItem from="1730133036390" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27855000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="69" width="1854" height="885" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26578072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/register-patient.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1295" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="86" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" selection-end-line="158" selection-end-column="11" />
+          <folding>
+            <element signature="e#136#223#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/laravel-proj/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_11_115107_create_doctors_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#7#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Doctors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#30#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Patients.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/0001_01_01_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/storage/logs/laravel.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="602" column="51" selection-start-line="602" selection-start-column="51" selection-end-line="602" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_11_115143_create_medication_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_11_115046_create_patients_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#7#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_072408_create_medications_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_074236_create_medications_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_074333_create_medications_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_074948_create_medications_table.php" />
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding>
+            <element signature="e#7#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/database/migrations/2024_10_22_080010_create_medications_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/app/Models/Medications.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/medications/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/PatientsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/app/Http/Controllers/MedicationsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#67#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/medications/medicationslist.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/patients/patientsList.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="130" selection-start-line="130" selection-end-line="130" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-project/sisal-project/resources/views/layout/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
